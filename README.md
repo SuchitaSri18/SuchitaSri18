@@ -44,7 +44,7 @@ I'm currently pursuing an M.Sc. in Computational Science and Applications. I hav
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuchitaSri18&layout=compact&theme=radical)
 
 ## Education
-- M.Sc. Computational Science and Applications (Expected [Graduation Year])
+- M.Sc. Computational Science and Applications (Expected [2025])
 - [BHU]
 
 ## Interests
