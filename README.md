@@ -45,7 +45,6 @@ I'm currently pursuing an M.Sc. in Computational Science and Applications. I hav
 
 ## Education
 - M.Sc. Computational Science and Applications (Expected [2025])
-- [BHU]
 
 ## Interests
 I am particularly interested in:
@@ -57,4 +56,3 @@ I am particularly interested in:
 ## Contact
 - [Email](mailto:1803suchita@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/suchita-srivastava-1b4791250)
-
